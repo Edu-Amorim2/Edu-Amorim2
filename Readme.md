@@ -13,3 +13,8 @@
 <div>
   <a href="https://www.linkedin.com/in/eduardo-amorim17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+---
+---
+![](https://raw.githubusercontent.com/Edu-Amorim2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Edu-Amorim2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
