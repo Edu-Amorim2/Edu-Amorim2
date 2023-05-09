@@ -15,4 +15,4 @@
 </div>
 ---
 ---
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Amorim2)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-Amorim2)](https://github.com/Edu-Amorim2/github-readme-stats)
