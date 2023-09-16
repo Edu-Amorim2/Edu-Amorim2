@@ -4,14 +4,12 @@
 ---
 # Estou Estudando📖:
 
-<ul>
-<ol>Java</ol>
-<ol>Python</ol>
-<ol>SQL</ol>
-<ol>User Interface (UI)</ol>
-<ol>Amazon Web Services</ol>
-<ol>Google Cloud</ol>
-</ul>
+<ul>Java</ul>
+<ul>Python</ul>
+<ul>SQL</ul>
+<ul>User Interface (UI)</ul>
+<ul>Amazon Web Services</ul>
+<ul>Google Cloud</ul>
 ---
 
 <!-- ## Ferramentas e Tecnologias ⚒️👨‍💻
