@@ -5,10 +5,10 @@
 
 # Estou Estudando📖:
 
-<ul>Java</ul>
 <ul>Python</ul>
 <ul>SQL</ul>
-<ul>User Interface (UI)</ul>
+<ul>Web Design</ul>
+<ul>User Interface(UI)</ul>
 <ul>Amazon Web Services</ul>
 <ul>Google Cloud</ul>
 
