@@ -1,6 +1,6 @@
 <h1> Bem vindo ao meu perfil!</h1>
 
-<img src="gif/code1.gif" alt="waving hands" align=center style="height: 200px; width:250px;"/>
+<img src="gif/code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
 
 ---
 
