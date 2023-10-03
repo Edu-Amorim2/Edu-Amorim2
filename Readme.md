@@ -1,10 +1,10 @@
-<h1> Bem vindo ao meu perfil!  <img src="gif/wave.gif" alt="waving hands" style="height: 30px; width:30px;"/> </h1> 
+<h1> Bem vindo ao meu perfil!</h1> 
 
 <img src="gif/code1.gif" alt="waving hands" align=center style="height: 200px; width:250px;"/>
 
 ---
 
-# Estou Estudando📖:
+<h1> Estou Estudando📖: </h1>
 
 <ul>Python</ul>
 <ul>SQL</ul>
@@ -15,7 +15,7 @@
 
 --- 
 
-## Contato:
+<h2> Contato: </h2>
 <div>
   <a href="https://www.linkedin.com/in/eduardo-amorim17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -25,5 +25,5 @@
 <div>
 <a href="https://github.com/Edu-Amorim2">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-Amorim2&layout=compact&langs_count=7&theme=blue-green"/>
-
+</div>
 ---
