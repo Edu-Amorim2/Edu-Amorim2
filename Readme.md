@@ -1,5 +1,5 @@
-# Bem vindo ao meu perfil! <img src="gif/wave.gif" alt="waving hands" style="height: 30px; width:30px;"/>
-<img src="gif/code1.gif" alt="waving hands" align=center style="height: 200px; width:250px;"/>
+<h1>Bem vindo ao meu perfil! </h1> <img src="gif/wave.gif" alt="waving hands" style="height: 30px; width:30px;"/>
+
 
 ---
 
