@@ -1,4 +1,4 @@
-<h1 align="center" > Bem vindo ao meu perfil!</h1> 
+<h1> Bem vindo ao meu perfil!</h1> 
 <br>
 <div>
 <img src="gif/code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
