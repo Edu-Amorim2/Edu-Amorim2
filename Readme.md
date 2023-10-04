@@ -1,6 +1,6 @@
-<h1 align="center" > Bem vindo ao meu perfil!</h1>
+<h1 align="center" > Bem vindo ao meu perfil!</h1> 
 <br>
-<div align="center">
+<div>
 <img src="gif/code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
 </div>
 <br>
@@ -19,8 +19,7 @@
 <div>
   <a href="https://www.linkedin.com/in/eduardo-amorim17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
----
+<br>
 
 <div>
 <a href="https://github.com/Edu-Amorim2">
