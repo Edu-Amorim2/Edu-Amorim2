@@ -1,10 +1,11 @@
-<h1> Bem vindo ao meu perfil!</h1>
-
+<h1 align="center" > Bem vindo ao meu perfil!</h1>
+<br>
+<div align="center">
 <img src="gif/code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
+</div>
+<br>
 
----
-
-<h1> Estou Estudando📖: </h1>
+<h2> Estou Estudando📖: </h2>
 
 <ul>Python</ul>
 <ul>SQL</ul>
@@ -12,8 +13,7 @@
 <ul>User Interface(UI)</ul>
 <ul>Amazon Web Services</ul>
 <ul>Google Cloud</ul>
-
---- 
+<br>
 
 <h2> Contato: </h2>
 <div>
